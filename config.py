@@ -4,3 +4,6 @@
 APP_ID = 'xxx'
 API_KEY = 'xxx'
 SECRET_KEY = 'xxx'
+
+audio_path = "./audio"
+entertainments = {"qq","WeChat","steam"}
