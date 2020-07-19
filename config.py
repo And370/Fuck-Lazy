@@ -5,5 +5,5 @@ APP_ID = 'xxx'
 API_KEY = 'xxx'
 SECRET_KEY = 'xxx'
 
-audio_path = "./audio"
+audio_path = "D:/CODE/Fuck-Lazy/audio/"
 entertainments = {"qq","WeChat","steam"}
